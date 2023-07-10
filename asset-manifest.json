@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-resume-website/static/css/main.20c188eb.css",
+    "main.js": "/react-resume-website/static/js/main.535c2cc9.js",
+    "static/media/pexels-negative-space-160107.jpg": "/react-resume-website/static/media/pexels-negative-space-160107.e6df4d3c8e6596af72d0.jpg",
+    "index.html": "/react-resume-website/index.html",
+    "main.20c188eb.css.map": "/react-resume-website/static/css/main.20c188eb.css.map",
+    "main.535c2cc9.js.map": "/react-resume-website/static/js/main.535c2cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c188eb.css",
+    "static/js/main.535c2cc9.js"
+  ]
+}
