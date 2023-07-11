@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-resume-website/static/css/main.d68cf6c7.css",
-    "main.js": "/react-resume-website/static/js/main.f0cadfdb.js",
-    "static/media/pexels-negative-space-160107.jpg": "/react-resume-website/static/media/pexels-negative-space-160107.e6df4d3c8e6596af72d0.jpg",
-    "static/media/blogwebsite.jpg": "/react-resume-website/static/media/blogwebsite.252370be69992771dd1b.jpg",
-    "static/media/weatherApp-react.png": "/react-resume-website/static/media/weatherApp-react.7c456d24966ba5e82ae0.png",
-    "static/media/todolist-v1.jpg": "/react-resume-website/static/media/todolist-v1.109a16981e0712600c32.jpg",
-    "index.html": "/react-resume-website/index.html",
-    "main.d68cf6c7.css.map": "/react-resume-website/static/css/main.d68cf6c7.css.map",
-    "main.f0cadfdb.js.map": "/react-resume-website/static/js/main.f0cadfdb.js.map"
+    "main.css": "/static/css/main.d68cf6c7.css",
+    "main.js": "/static/js/main.8d8351be.js",
+    "static/media/pexels-negative-space-160107.jpg": "/static/media/pexels-negative-space-160107.e6df4d3c8e6596af72d0.jpg",
+    "static/media/blogwebsite.jpg": "/static/media/blogwebsite.252370be69992771dd1b.jpg",
+    "static/media/weatherApp-react.png": "/static/media/weatherApp-react.7c456d24966ba5e82ae0.png",
+    "static/media/todolist-v1.jpg": "/static/media/todolist-v1.109a16981e0712600c32.jpg",
+    "index.html": "/index.html",
+    "main.d68cf6c7.css.map": "/static/css/main.d68cf6c7.css.map",
+    "main.8d8351be.js.map": "/static/js/main.8d8351be.js.map"
   },
   "entrypoints": [
     "static/css/main.d68cf6c7.css",
-    "static/js/main.f0cadfdb.js"
+    "static/js/main.8d8351be.js"
   ]
 }
